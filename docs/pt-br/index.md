@@ -19,8 +19,8 @@ features:
   - title: "Arquivo único para configuração"
     details: ".tool-versions para gerenciar todas as suas ferramentas, todas as em um único lugar, compartilhando espaço."
   - title: "Shells"
-    details: "Supports Bash, ZSH & Fish with completions available."
+    details: "Suporte ao Bash, ZSH & Fish e todos os complementos disponíveis."
   - title: "GitHub Actions"
-    details: "Provides a GitHub Action to install and utilize your .tool-verions in your CICD workflows."
+    details: "Prove GitHub Action para instalar e utilizar em seu .tool-verions in your CICD."
 # footer: MIT Licensed
 ---
