@@ -112,7 +112,7 @@ const pt_br = {
   ],
   "/pt-br/manage/": [
     {
-      text: "Manage",
+      text: "Gerenciar",
       children: [
         "/pt-br/manage/core.md",
         "/pt-br/manage/plugins.md",
@@ -128,7 +128,7 @@ const pt_br = {
   ],
   "/pt-br/plugins/": [
     {
-      text: "Author",
+      text: "Autor",
       children: [
         "/pt-br/plugins/create.md",
         {
@@ -138,7 +138,7 @@ const pt_br = {
       ]
     },
     {
-      text: "First Party Plugins",
+      text: "Começando com Plugins",
       children: [
         {
           text: "Elixir",
@@ -159,7 +159,7 @@ const pt_br = {
       ]
     },
     {
-      text: "Community Plugins",
+      text: "Comunidade de Plugins",
       children: [
         {
           text: "asdf-community",
@@ -168,7 +168,7 @@ const pt_br = {
       ]
     },
     {
-      text: "Reference",
+      text: "Referência",
       children: [
         {
           text: "Plugin Shortname Index",
@@ -179,7 +179,7 @@ const pt_br = {
   ],
   "/pt-br/contribute/": [
     {
-      text: "Contribute",
+      text: "Contribuição",
       children: [
         "/pt-br/contribute/core.md",
         "/pt-br/contribute/documentation.md",
@@ -190,16 +190,16 @@ const pt_br = {
   ],
   "/pt-br/learn-more/": [
     {
-      text: "Questions",
+      text: "Questões",
       children: [
         "/pt-br/learn-more/faq.md",
 
         {
-          text: "GitHub Issues",
+          text: "GitHub problemas",
           link: "https://github.com/asdf-vm/asdf/issues"
         },
         {
-          text: "GitHub Discussions",
+          text: "GitHub discussões",
           link: "https://github.com/asdf-vm/asdf/discussions"
         },
         {
@@ -209,7 +209,7 @@ const pt_br = {
       ]
     },
     {
-      text: "Resources",
+      text: "Recursos",
       children: ["/pt-br/learn-more/thanks.md"]
     }
   ]
