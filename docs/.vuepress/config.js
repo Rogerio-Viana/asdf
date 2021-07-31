@@ -30,7 +30,7 @@ module.exports = {
         editLinkText: "Edit this page"
       },
       "/pt-br/": {
-        selectLanguageName: "Brazilian Portuguese",
+        selectLanguageName: "Português",
         sidebar: sidebar.pt_br,
         navbar: navbar.pt_br,
         editLinkText: "Edit this page",
