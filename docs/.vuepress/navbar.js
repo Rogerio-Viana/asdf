@@ -129,15 +129,15 @@ const en = [
 
 const pt_br = [
   {
-    text: "Getting Started",
+    text: "Começar",
     link: "/pt-br/guide/getting-started.html",
     activeMatch: "/pt-br/guide/"
   },
   {
-    text: "Reference",
+    text: "Referência",
     children: [
       {
-        text: "Manage",
+        text: "Gerenciar",
         children: [
           "/pt-br/manage/core.md",
           "/pt-br/manage/plugins.md",
@@ -156,7 +156,7 @@ const pt_br = [
     text: "Plugins",
     children: [
       {
-        text: "Author",
+        text: "Autor",
         children: [
           "/pt-br/plugins/create.md",
           {
@@ -166,7 +166,7 @@ const pt_br = [
         ]
       },
       {
-        text: "First Party Plugins",
+        text: "Começando com Plugins",
         children: [
           {
             text: "Elixir",
@@ -187,20 +187,20 @@ const pt_br = [
         ]
       },
       {
-        text: "Community Plugins",
+        text: "Comunidade de Plugins",
         children: [
           {
             text: "asdf-community",
             link: "https://github.com/asdf-community"
           },
           {
-            text: "GitHub Topics Search",
+            text: "GitHub tópicos de pesquisa",
             link: "https://github.com/topics/asdf-plugin"
           }
         ]
       },
       {
-        text: "Reference",
+        text: "Referência",
         children: [
           {
             text: "Plugin Shortname Index",
@@ -211,10 +211,10 @@ const pt_br = [
     ]
   },
   {
-    text: "Contribute",
+    text: "Contribuição",
     children: [
       {
-        text: "Core",
+        text: "Núcleo",
         children: [
           "/pt-br/contribute/core.md",
           "/pt-br/contribute/documentation.md"
@@ -231,18 +231,18 @@ const pt_br = [
     ]
   },
   {
-    text: "Learn More",
+    text: "Saiba mais",
     children: [
       {
-        text: "Questions",
+        text: "Questões",
         children: [
           "/pt-br/learn-more/faq.md",
           {
-            text: "GitHub Issues",
+            text: "GitHub problemas",
             link: "https://github.com/asdf-vm/asdf/issues"
           },
           {
-            text: "GitHub Discussions",
+            text: "GitHub discussões",
             link: "https://github.com/asdf-vm/asdf/discussions"
           },
           {
@@ -252,7 +252,7 @@ const pt_br = [
         ]
       },
       {
-        text: "Resources",
+        text: "Recursos",
         children: ["/pt-br/learn-more/thanks.md"]
       }
     ]
