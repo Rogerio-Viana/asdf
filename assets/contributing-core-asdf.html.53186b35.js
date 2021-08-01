@@ -1,0 +1,1 @@
+const e={key:"v-5401808b",path:"/pt-br/contributing-core-asdf.html",title:"",lang:"pt-br",frontmatter:{},excerpt:"",headers:[{level:2,title:"Desenvolvimento",slug:"desenvolvimento",children:[]},{level:2,title:"Imagem Docker",slug:"imagem-docker",children:[]}],filePathRelative:"pt-br/contributing-core-asdf.md",git:{updatedTime:1623729115e3,contributors:[]}};export{e as data};

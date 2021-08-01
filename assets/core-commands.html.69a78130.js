@@ -1,0 +1,1 @@
+const t={key:"v-a7fd329c",path:"/pt-br/core-commands.html",title:"",lang:"pt-br",frontmatter:{},excerpt:"",headers:[],filePathRelative:"pt-br/core-commands.md",git:{updatedTime:1623798234e3,contributors:[]}};export{t as data};

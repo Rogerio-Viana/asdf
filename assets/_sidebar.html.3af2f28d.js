@@ -1,0 +1,1 @@
+const t={key:"v-95f3a326",path:"/pt-br/_sidebar.html",title:"",lang:"pt-br",frontmatter:{},excerpt:"",headers:[],filePathRelative:"pt-br/_sidebar.md",git:{updatedTime:1623537181e3,contributors:[]}};export{t as data};
